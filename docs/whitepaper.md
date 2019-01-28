@@ -1,0 +1,1 @@
+# BOXY Coin 2019 White Paper
