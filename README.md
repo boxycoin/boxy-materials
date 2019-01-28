@@ -1,2 +1,2 @@
 # boxy-materials
-Documents, Images, and other materials.
+Documents, Images, and other resources and materials.
