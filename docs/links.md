@@ -12,4 +12,6 @@
 * [Linux Source](https://github.com/boxycoin/boxycoinv3.1/archive/v3.1.0.zip)
 * [Android](https://github.com/boxycoin/boxycoinv3.1/releases/download/v3.1.0/BoxyCoin-Android-Wallet.apk)
 
+## Wallet Bootstrap: [Latest & Instructions](https://bootstrap.boxyco.in)
+
 ## Code Repository: [Github](https://github.com/boxycoin)
